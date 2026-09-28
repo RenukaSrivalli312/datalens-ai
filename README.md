@@ -268,11 +268,3 @@ Add screenshots of:
 
 ---
 
-## Author
-
-**Kavuri Divya Sumanvitha**
-
-GitHub:
-https://github.com/sumanvitha-kavuri
-
-
