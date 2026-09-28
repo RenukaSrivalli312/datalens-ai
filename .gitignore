@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment variables
+.env
+server/.env
+client/.env
+
+# Uploaded CSV files
+server/uploads/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Build folders
+dist/
+build/
+
+# Vite
+client/dist/
+
+# Coverage
+coverage/
